@@ -1,5 +1,5 @@
 # comchapter
-An easy batch file script that can find commercials to add chapter markers to a file.Usually, this can used as a Postprocessing script on NextPVR, Emby, Channels or Jellyfin
+An easy batch file script that can find commercials to add chapter markers to a file and remuxes it to mp4. Usually, this can used as a Postprocessing script on NextPVR, Emby, Channels or Jellyfin
 
 Inspired by the comchap script that BrettSheleski made for linux https://github.com/BrettSheleski/comchap
 
