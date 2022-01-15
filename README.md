@@ -6,5 +6,5 @@ Inspired by the comchap script that BrettSheleski made for linux https://github.
 # Dependencies
 Comskip (https://github.com/erikkaashoek/Comskip)
 
-FFmpeg
+FFmpeg or mkvmerge (depending on which batch file you want to use)
 
